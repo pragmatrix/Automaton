@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Automaton", "Automaton\Automaton.fsproj", "{E7D70CD1-C837-4F73-8A3A-99DF7CD1479F}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Automaton.Tests", "Automaton.Tests\Automaton.Tests.fsproj", "{6620448C-1B23-4F76-9DFF-0776F872D5DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D70CD1-C837-4F73-8A3A-99DF7CD1479F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D70CD1-C837-4F73-8A3A-99DF7CD1479F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D70CD1-C837-4F73-8A3A-99DF7CD1479F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D70CD1-C837-4F73-8A3A-99DF7CD1479F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6620448C-1B23-4F76-9DFF-0776F872D5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6620448C-1B23-4F76-9DFF-0776F872D5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6620448C-1B23-4F76-9DFF-0776F872D5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6620448C-1B23-4F76-9DFF-0776F872D5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
